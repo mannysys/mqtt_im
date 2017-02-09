@@ -1,0 +1,8 @@
+.chat-input{
+    display: flex;
+    height: 9%;
+}
+.el-textarea__inner{
+    resize: none;
+    /*border: 0;*/
+}

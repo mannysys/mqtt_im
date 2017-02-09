@@ -2,7 +2,8 @@
 logs
 *.log
 npm-debug.log*
-
+.idea
+./server/node_modules
 # Runtime data
 pids
 *.pid
